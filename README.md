@@ -1,2 +1,2 @@
 # METGen
-A Multimodal Sarcasm Generation Framework
+A Multimodal Emotion Generation Framework
