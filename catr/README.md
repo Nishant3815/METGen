@@ -14,4 +14,4 @@ The script `FinalPrediction` is used to predict captions based on the input mode
 
 # Classification
 
-The script 'Final Classification' uses the XGBoost classification model to classify whether a generated caption incorporates the specified emotion given an input image. It then generates the classification accuracy which denotes how well the fintuned model generated the emotion text based on an image.
+The script `Final Classification` uses the XGBoost classification model to classify whether a generated caption incorporates the specified emotion given an input image. It then generates the classification accuracy which denotes how well the fintuned model generated the emotion text based on an image.
