@@ -12,10 +12,13 @@ We  present  an  emotion-based  image  captioning pipeline developed on top of t
 
 `sarcasm`: Contains image data and annotations that were used for finetuning the catr for generating "sarcasm" emotion captions given an image input. Refer the `README` file in the directory to know the internal files usage.
 
-# Architecture![architecture](https://user-images.githubusercontent.com/7936928/146487166-9275a62d-336a-432e-ba23-e446cf04ab42.png)
-
 # Fine Tuning and predicting captions
 Refer the directory `catr` to see the working of finetuning and predictions files.
+
+# Architecture![CATRArch@2x](https://user-images.githubusercontent.com/7936928/146487573-e1c4762a-75ef-4854-a511-9a402237b55e.png)
+
+
+
 
 
 
