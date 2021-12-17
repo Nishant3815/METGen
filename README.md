@@ -14,5 +14,8 @@ We  present  an  emotion-based  image  captioning pipeline developed on top of t
 
 # Architecture![architecture](https://user-images.githubusercontent.com/7936928/146487166-9275a62d-336a-432e-ba23-e446cf04ab42.png)
 
+# Fine Tuning and predicting captions
+Refer the directory `catr` to see the working of finetuning and predictions files.
+
 
 
